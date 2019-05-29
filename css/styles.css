@@ -1,0 +1,33 @@
+
+p.intro {
+  font-size: 20px;
+  color: #b949e5;
+}
+
+h1.big-text {
+  font-size: 60px;
+  font-family: impact;
+  color: #592070;
+
+}
+
+p.description {
+  font-size: 20px;
+  font-style: italic;
+  color: #9960af;
+}
+
+.flashy {
+  color: #300242;
+  font-size: 30px;
+
+}
+
+h3.vanilla {
+  color: #cdb8d6;
+
+}
+
+ol.list {
+  color: #76098e;
+}
